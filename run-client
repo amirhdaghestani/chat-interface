@@ -1,0 +1,1 @@
+cd Client && g++ -pthread client.cpp -o client.o && ./client.o
